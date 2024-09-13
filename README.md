@@ -16,4 +16,4 @@
  
  </div> </br>
 
- Apaixonado por tecnologia, busco melhorar mais e mais para alcançar meus objetivos
+I´m just getting started
