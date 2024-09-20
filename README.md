@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marc.menezzes/)
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmenezzes&show_icons=true&theme=dracula)
+![Marcos GitHub stats]( https://github-readme-stats.vercel.app/api?username=marcosmenezzes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
 ## Tecnologias que estudo
 
