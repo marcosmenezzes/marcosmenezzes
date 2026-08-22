@@ -12,6 +12,7 @@ Building real-world software with
 <a href="https://portfolio-marcos-menezes.netlify.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/marcosmenezzez/">
   <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -27,17 +28,17 @@ building things that solve real problems.
 
 ---
 
-## `> whoami`
+# `> whoami`
 
 ```yaml
 name: Marcos Menezes
-location: Brazil 🇧🇷
+location: Brazil
 education: Software Engineering @ Instituto Infnet
 
 experience:
   - Full-Stack Development
   - Software House / SaaS
-  - Real production systems
+  - Production Systems
 
 focus:
   - Backend Development
@@ -48,14 +49,14 @@ focus:
 
 languages:
   - Portuguese: Native
-  - English: Fluent
+  - English: Advanced
 ```
 
-I started my journey in software through a technical degree in **Software Development at SENAI** and later gained professional experience inside a software house.
+I started my journey in software through a technical degree in **Software Development at SENAI** and later gained professional experience working inside a software house.
 
 I've worked across the software lifecycle — from understanding client requirements and modeling solutions to developing features, fixing production issues, maintaining databases and delivering software used by real customers.
 
-I currently study **Software Engineering at Instituto Infnet** while building projects around backend systems, AI and computer vision.
+I currently study **Software Engineering at Instituto Infnet** while building projects focused on backend systems, artificial intelligence and computer vision.
 
 ---
 
@@ -90,11 +91,12 @@ I currently study **Software Engineering at Instituto Infnet** while building pr
 # `> featured_projects`
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 🦺 SafetyLens
+### SafetyLens
 
 Computer vision system for **real-time PPE monitoring** through cameras.
 
@@ -107,14 +109,14 @@ Detects equipment such as helmets, safety glasses, gloves and hearing protection
 <br>
 
 <a href="https://github.com/marcosmenezzes/safetylens.rtsp">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚘 PlateLens
+### PlateLens
 
 Automatic License Plate Recognition system focused on **vehicle access control**.
 
@@ -127,7 +129,7 @@ Detects vehicles and Brazilian license plates, performs OCR and records accesses
 <br>
 
 <a href="https://github.com/marcosmenezzes/PlateLens-LeitorDePlacas">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -138,7 +140,7 @@ Detects vehicles and Brazilian license plates, performs OCR and records accesses
 
 <td width="50%" valign="top">
 
-### 🧠 StudyBuddy
+### StudyBuddy
 
 AI-assisted study platform designed to help students organize and interact with learning content.
 
@@ -151,14 +153,14 @@ Includes authentication, persistence, backend services and AI-powered workflows.
 <br>
 
 <a href="https://github.com/marcosmenezzes/StudyBuddy">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 👁️ Stealth Assistant
+### Stealth Assistant
 
 Experimental macOS tool that integrates AI assistance directly into the desktop workflow through a discreet interface.
 
@@ -171,12 +173,13 @@ Built as an exploration of productivity, automation and operating-system integra
 <br>
 
 <a href="https://github.com/marcosmenezzes/chatgpt-stealth-assistant">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -199,7 +202,7 @@ Built as an exploration of productivity, automation and operating-system integra
 │  → Requirements analysis                                     │
 │  → Direct communication with clients                         │
 │                                                              │
-│  Stack: .NET · Angular · SQL Server · Azure                   │
+│  Stack: .NET · Angular · SQL Server · Azure                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -227,17 +230,10 @@ marcos@github:~$ status
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcosmenezzes&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmenezzes&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosmenezzes&bg_color=00000000&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" />
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=marcosmenezzes&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true"
+/>
 
 </div>
 
@@ -278,18 +274,18 @@ public sealed class Marcos
 
 <div align="center">
 
-### `> connect_with_me`
+# `> connect_with_me`
 
 Interested in software engineering, open source or just want to talk tech?
 
 <br>
 
 <a href="https://www.linkedin.com/in/marcosmenezzez/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://portfolio-marcos-menezes.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br><br>
