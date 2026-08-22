@@ -1,220 +1,258 @@
 <div align="center">
 
-# Marcos Menezes
+# `> Marcos Menezes_`
 
 ### Software Engineering Student · Full-Stack Developer
 
-`Backend` · `Computer Vision` · `Full Stack` · `AI`
+Building real-world software with
+**.NET · Angular · React · Python · Computer Vision**
 
 <br>
 
-> Building software, understanding systems and turning ideas into real projects.
+<a href="https://portfolio-marcos-menezes.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/marcosmenezzez/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](SEU_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+```text
+software engineer in progress.
+building things that solve real problems.
+```
 
 </div>
 
 ---
 
-## About me
+## `> whoami`
 
-I'm a Software Engineering student at Instituto Infnet and a developer with professional experience working in a software house, where I participated in real projects from requirements and system modeling to development, maintenance and delivery of new features.
+```yaml
+name: Marcos Menezes
+location: Brazil 🇧🇷
+education: Software Engineering @ Instituto Infnet
 
-My main interests are backend development, APIs, computer vision, artificial intelligence and cybersecurity.
+experience:
+  - Full-Stack Development
+  - Software House / SaaS
+  - Real production systems
 
-I enjoy understanding how software works beyond the surface — from application architecture and databases to lower-level concepts and systems programming.
+focus:
+  - Backend Development
+  - Computer Vision
+  - Artificial Intelligence
+  - Software Architecture
+  - Cybersecurity
 
-I also lived in the United States for five years, which gave me professional-level English fluency and experience communicating in multicultural environments.
+languages:
+  - Portuguese: Native
+  - English: Fluent
+```
 
----
+I started my journey in software through a technical degree in **Software Development at SENAI** and later gained professional experience inside a software house.
 
-## Tech Stack
+I've worked across the software lifecycle — from understanding client requirements and modeling solutions to developing features, fixing production issues, maintaining databases and delivering software used by real customers.
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,php" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-`SQL Server`
-
-### AI & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-</p>
-
-`YOLO` · `Ultralytics` · `Object Detection` · `OCR`
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux,vscode,visualstudio" />
-</p>
+I currently study **Software Engineering at Instituto Infnet** while building projects around backend systems, AI and computer vision.
 
 ---
 
-## Selected Projects
+# `> stack`
+
+<div align="center">
+
+### Main
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,python&theme=dark" />
+
+<br><br>
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,azure,git,github&theme=dark" />
+
+<br><br>
+
+### Web & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vscode,visualstudio&theme=dark" />
+
+<br><br>
+
+`SQL Server` · `REST APIs` · `Entity Framework Core` · `YOLO` · `OpenCV`
+
+</div>
+
+---
+
+# `> featured_projects`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### SafetyLens
+### 🦺 SafetyLens
 
-Real-time computer vision system designed to identify whether workers are using required Personal Protective Equipment.
+Computer vision system for **real-time PPE monitoring** through cameras.
 
-The project combines object detection and image processing to monitor environments through cameras and generate data about PPE compliance.
+Detects equipment such as helmets, safety glasses, gloves and hearing protection using trained object-detection models.
 
-**Stack**
+**Tech**
 
-`Python` · `YOLO` · `OpenCV` · `Flask` · `SQLite`
+`Python` `YOLO` `OpenCV` `Flask` `SQLite`
+
+<br>
 
 <a href="https://github.com/marcosmenezzes/safetylens.rtsp">
-  View repository →
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### PlateLens
+### 🚘 PlateLens
 
-Vehicle access-control and license-plate recognition system capable of detecting vehicles, extracting Brazilian license plates and registering accesses in real time.
+Automatic License Plate Recognition system focused on **vehicle access control**.
 
-**Stack**
+Detects vehicles and Brazilian license plates, performs OCR and records accesses in real time.
 
-`ASP.NET Core` · `React` · `YOLO` · `OCR` · `Computer Vision`
+**Tech**
+
+`.NET` `ASP.NET Core` `React` `YOLO` `OCR`
+
+<br>
 
 <a href="https://github.com/marcosmenezzes/PlateLens-LeitorDePlacas">
-  View repository →
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### StudyBuddy
+### 🧠 StudyBuddy
 
-AI-powered study platform built to help students organize content and improve their learning workflow.
+AI-assisted study platform designed to help students organize and interact with learning content.
 
-The project combines a modern web interface with backend services, authentication, database persistence and AI-powered features.
+Includes authentication, persistence, backend services and AI-powered workflows.
 
-**Stack**
+**Tech**
 
-`ASP.NET Core` · `React` · `TypeScript` · `MySQL` · `Tailwind CSS`
+`.NET` `React` `TypeScript` `MySQL` `Tailwind`
+
+<br>
 
 <a href="https://github.com/marcosmenezzes/StudyBuddy">
-  View repository →
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ChatGPT Stealth Assistant
+### 👁️ Stealth Assistant
 
-Experimental macOS productivity tool designed to integrate AI assistance directly into the operating-system workflow through a discreet interface.
+Experimental macOS tool that integrates AI assistance directly into the desktop workflow through a discreet interface.
 
-**Stack**
+Built as an exploration of productivity, automation and operating-system integration.
 
-`Python` · `macOS` · `Automation`
+**Tech**
+
+`Python` `macOS` `Automation`
+
+<br>
 
 <a href="https://github.com/marcosmenezzes/chatgpt-stealth-assistant">
-  View repository →
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## What I'm currently doing
+# `> professional_experience`
 
-```txt
-> studying      Software Engineering
-> building      Computer Vision and Backend projects
-> learning      C, Systems Programming and Software Architecture
-> exploring     Cybersecurity and Artificial Intelligence
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ SOFTWARE HOUSE                                               │
+│ Full-Stack Development                                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  → Development of production features                        │
+│  → Maintenance of existing systems                           │
+│  → Bug fixing and troubleshooting                            │
+│  → Business logic implementation                             │
+│  → Database development and maintenance                      │
+│  → REST API development                                      │
+│  → Frontend development                                      │
+│  → Requirements analysis                                     │
+│  → Direct communication with clients                         │
+│                                                              │
+│  Stack: .NET · Angular · SQL Server · Azure                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+Working in a software house taught me something that tutorials can't fully reproduce: **software has users, deadlines, legacy decisions and real consequences when something breaks.**
+
+---
+
+# `> currently`
+
+```console
+marcos@github:~$ status
+
+[+] studying       Software Engineering
+[+] building       Backend & Computer Vision projects
+[+] learning       C and Computer Architecture
+[+] exploring      Cybersecurity
+[+] improving      Software Architecture
+[+] shipping       Open Source projects
 ```
 
 ---
 
-## Professional Experience
-
-I have professional experience working at a software house developing and maintaining real production systems.
-
-My work involved:
-
-* developing new features for existing systems;
-* fixing bugs and production issues;
-* working with C#, .NET, Angular and SQL Server;
-* implementing changes in business logic and user interfaces;
-* participating in requirements analysis and system modeling;
-* maintaining APIs and databases;
-* working with Azure-supported development workflows;
-* communicating directly with clients to understand problems and requirements;
-* supporting systems throughout their development and maintenance lifecycle.
-
-This experience taught me that software development is not only about writing code — it is also about understanding problems, communicating clearly and maintaining systems that people actually depend on.
-
----
-
-## GitHub Stats
+# `> github_activity`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcosmenezzes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcosmenezzes&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmenezzes&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmenezzes&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosmenezzes&bg_color=00000000&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" />
 
 </div>
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosmenezzes&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## A little more about me
+# `> developer.cs`
 
 ```csharp
-public class Marcos
+public sealed class Marcos
 {
-    public string Location => "Brazil 🇧🇷";
-
-    public string Education =>
-        "Software Engineering @ Instituto Infnet";
+    public string Role => "Software Engineering Student";
 
     public string[] MainStack =>
     [
-        "C#",
-        ".NET",
+        "C# / .NET",
         "Angular",
         "React",
         "TypeScript",
@@ -224,18 +262,15 @@ public class Marcos
 
     public string[] Interests =>
     [
-        "Backend Development",
+        "Backend Engineering",
         "Computer Vision",
         "Artificial Intelligence",
         "Cybersecurity",
         "Software Architecture"
     ];
 
-    public string CurrentlyLearning =>
-        "C, Computer Architecture and Systems Programming";
-
-    public string Philosophy =>
-        "Understand how it works, then build it better.";
+    public string CurrentMission =>
+        "Understand how things work and build better ones.";
 }
 ```
 
@@ -243,16 +278,26 @@ public class Marcos
 
 <div align="center">
 
-### Let's connect
+### `> connect_with_me`
 
-I'm always interested in software engineering, open-source projects, technology and opportunities to build interesting things.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](SEU_PORTFOLIO)
+Interested in software engineering, open source or just want to talk tech?
 
 <br>
 
-<sub>Code. Learn. Build. Repeat.</sub>
+<a href="https://www.linkedin.com/in/marcosmenezzez/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://portfolio-marcos-menezes.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<br><br>
+
+<sub>
+
+`Code.` · `Learn.` · `Build.` · `Repeat.`
+
+</sub>
 
 </div>
-
