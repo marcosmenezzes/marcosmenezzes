@@ -231,8 +231,8 @@ marcos@github:~$ status
 <div align="center">
 
 <img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=marcosmenezzes&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true"
+  width="95%"
+  src="https://streak-stats.demolab.com?user=marcosmenezzes&theme=github-dark-blue&hide_border=true"
 />
 
 </div>
